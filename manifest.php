@@ -4,6 +4,7 @@ acceptable_sugar_versions
         - 7\.[7-8]\.[0-9][0-9]?[a-z]?
         - 8\.0\.[0-9][0-9]?
         - 8\.5\.[0-9][0-9]?
+        - 8\.6\.[0-9][0-9]?
 name: 1CRM Erweiterungen raw_pdf_template_editor
 description: 1CRM Erweiterungen fuer raw_pdf_template_editor
 author: visual4 GmbH
